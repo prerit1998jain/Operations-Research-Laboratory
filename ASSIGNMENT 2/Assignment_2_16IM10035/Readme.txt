@@ -1,1 +1,1 @@
-These assignments consists of codes consisting of solutions to various linear and integer programming problems.
+These assignments consists of codes consisting of solutions to various linear and integer programming problems. Some of the problems are based on transportation problem with transhipment nodes, knapsack problem and their extensions.
